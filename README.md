@@ -1,1 +1,1 @@
-# MyBlog-Image
+The image in my blog.
